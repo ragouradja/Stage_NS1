@@ -8,4 +8,4 @@ S'ensuit une présentation des résultats obtenus qui nous permettent de donner 
 Et enfin, une partie Annexe qui regroupe l'ensemble des scripts utilisés.
 Le fonctionnement et l'utilisation de chaque script est expliqué.
 
-Étant novice dans l'élaboration de scripts d'analyse, la qualité des codes n'est probablement pas optimale.
+Étant novice dans l'élaboration de scripts d'analyse, la qualité des codes n'est certainement pas optimale.
