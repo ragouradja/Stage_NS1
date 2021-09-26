@@ -1,4 +1,4 @@
-# Stage_NS1
+# Stage_NS1 (Licence 3 Bioinformatique)
 
 
 Le fichier Synthèse.pdf est un résumé des travaux réalisés lors de ce Stage sur la protéine virale NS1 du virus de la grippe.
@@ -8,4 +8,4 @@ S'ensuit une présentation des résultats obtenus qui nous permettent de donner 
 Et enfin, une partie Annexe qui regroupe l'ensemble des scripts utilisés.
 Le fonctionnement et l'utilisation de chaque script est expliqué.
 
-Étant novice dans l'élaboration de scripts d'analyse, la qualité des codes n'est certainement pas optimale.
+Les scripts peuvent être améliorés.
